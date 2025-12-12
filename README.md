@@ -2,9 +2,9 @@
 ## AlexNet-Based Convolutional Neural Networks for Plant Leaf Disease Classification
 Final project for Deep Learning for Visual Recognition course (10 ETC).
 **Contributors:**
-- Marina Ramírez Baños (https://github.com/mramirezbanos)
-- Aakriti Singh (https://github.com/Aakriti1902) 
 - Eftychia Daskalaki
+- Aakriti Singh (https://github.com/Aakriti1902) 
+- Marina Ramírez Baños (https://github.com/mramirezbanos)
 
 ## Abstract
 An accurate image-based detection of plant disease remains challenging. Previously built CNN
