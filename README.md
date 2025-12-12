@@ -1,6 +1,7 @@
 # Deep Learning for Visual Recognition
 ## AlexNet-Based Convolutional Neural Networks for Plant Leaf Disease Classification
 Final project for Deep Learning for Visual Recognition course (10 ETC).
+
 **Contributors:**
 - Eftychia Daskalaki (https://github.com/eftydask)
 - Aakriti Singh (https://github.com/Aakriti1902) 
