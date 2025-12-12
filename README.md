@@ -3,7 +3,7 @@
 Final project for Deep Learning for Visual Recognition course (10 ETC).
 **Contributors:**
 - Marina Ramírez Baños
-- Aakriti Singh
+- Aakriti Singh (https://github.com/Aakriti1902) 
 - Eftychia Daskalaki
 
 ## Abstract
